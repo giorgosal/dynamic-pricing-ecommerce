@@ -1,0 +1,73 @@
+[
+  {
+    "name": "SprintRun 2000 Running Shoes",
+    "price": 89.99,
+    "category": "shoes",
+    "description": "Lightweight breathable running shoes for daily training.",
+    "rating": 4.4
+  },
+  {
+    "name": "TrailMax Waterproof Hiking Boots",
+    "price": 129.00,
+    "category": "shoes",
+    "description": "Rugged boots with ankle support for wet terrain.",
+    "rating": 4.5
+  },
+  {
+    "name": "AeroBuds Wireless Earbuds",
+    "price": 79.00,
+    "category": "electronics",
+    "description": "True wireless earbuds with clear calls and long battery life.",
+    "rating": 4.2
+  },
+  {
+    "name": "SilencePro ANC Headphones",
+    "price": 199.00,
+    "category": "electronics",
+    "description": "Over-ear Bluetooth headphones with active noise cancellation.",
+    "rating": 4.6
+  },
+  {
+    "name": "SwiftKey 87 Compact Keyboard",
+    "price": 59.00,
+    "category": "electronics",
+    "description": "Tenkeyless mechanical keyboard for fast typing.",
+    "rating": 4.1
+  },
+  {
+    "name": "CodeCraft 14\" Developer Laptop",
+    "price": 1199.00,
+    "category": "computers",
+    "description": "Lightweight laptop with 16GB RAM and 512GB SSD.",
+    "rating": 4.7
+  },
+  {
+    "name": "PixelView 27\" 144Hz Monitor",
+    "price": 249.00,
+    "category": "computers",
+    "description": "27-inch IPS monitor with 144Hz refresh rate.",
+    "rating": 4.3
+  },
+  {
+    "name": "ZenMat Premium Yoga Mat",
+    "price": 39.00,
+    "category": "fitness",
+    "description": "Eco-friendly mat with non-slip grip.",
+    "rating": 4.3
+  },
+  {
+    "name": "ChefMate 10-in Nonstick Pan",
+    "price": 34.50,
+    "category": "home",
+    "description": "Durable nonstick pan with even heat.",
+    "rating": 4.0
+  },
+  {
+    "name": "CityPack 20L Daypack",
+    "price": 49.00,
+    "category": "outdoors",
+    "description": "Light daypack with laptop sleeve.",
+    "rating": 4.2
+  }
+]
+   
